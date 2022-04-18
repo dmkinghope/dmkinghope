@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dmkinghope
+- 👀 I work in Data & Analytics Consulting
+- I will be uploading any personal projects I do to this repository. 
